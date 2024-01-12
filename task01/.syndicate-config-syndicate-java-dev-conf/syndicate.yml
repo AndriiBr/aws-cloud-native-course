@@ -1,0 +1,6 @@
+account_id: '196241772369'
+deploy_target_bucket: syndicate-artefacts-andriibr-dev
+extended_prefix_mode: false
+project_path: /Users/andriibr/IdeaProjects/aws-cloud-native-course/task01
+region: eu-central-1
+use_temp_creds: false
